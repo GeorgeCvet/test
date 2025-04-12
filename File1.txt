@@ -1,5 +1,7 @@
 testing conflict
 
+testing conflict as well
+
 Second sentence
 
 Third sentence
